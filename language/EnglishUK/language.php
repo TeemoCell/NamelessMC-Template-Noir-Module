@@ -21,7 +21,9 @@ $language = [
 
 	// Api
 	'API_Settings' => 'API Settings',
-	'API_Credentials' => 'API API Credentials',
+	'API_Credentials' => 'API Credentials',
+	'API_Enable_API' => 'Enable API',
+	'API_Disable_API' => 'Disable API',
 
 	// Avatar
 	'Avatar_Settings' => 'Avatar Settings',
