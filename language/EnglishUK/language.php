@@ -41,6 +41,7 @@ $language = [
 	'Save' => 'Save',
 	'Back' => 'Back',
 	'Create' => 'Create',
+	'Delete' => 'Delete',
 	'Switch_Yes' => 'Yes',
 	'Switch_No' => 'No',
 
