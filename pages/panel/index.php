@@ -27,4 +27,4 @@ $template->onPageLoad();
 
 require(ROOT_PATH . '/core/templates/panel_navbar.php');
 
-$template->displayTemplate('core/settings.tpl', $smarty);
+$template->displayTemplate('noirsettings/index.tpl', $smarty);

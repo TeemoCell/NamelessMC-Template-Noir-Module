@@ -1,23 +1,12 @@
 <?php
-/*
- *  Made by TeemoCell
- *  NamelessMC version 2.0.0-pr12
- *
- *  License: MIT
- *
- *  NoirSettings By TeemoCell
- */
 $language = [
 	// Images
 	'Background' => 'Background',
-	'Reset_Background' => 'Reset Background',
 	'Banner' => 'Banner',
-	'Reset_Banner' => 'Reset Banner',
 	'Logo' => 'Logo',
-	'Reset_Logo' => 'Reset Logo',
 	'Favicon' => 'Favicon',
-	'Reset_Favicon' => 'Reset Favicon',
 	'Reset' => 'Reset',
+	'Upload_Image' => 'Upload Image',
 
 	// Api
 	'API_Settings' => 'API Settings',
@@ -28,8 +17,15 @@ $language = [
 	// Avatar
 	'Avatar_Settings' => 'Avatar Settings',
 
-	// Avatar
+	// Email
 	'Enable_PHPMailer' => 'Enable PHPMailer to change the settings!',
+	'Preview' => 'Preview',
+	'Bulk_Mail' => 'Bulk E-Mail',
+	'EMail_Templates' => 'E-Mail Templates',
+	'Test_Mail' => 'Test E-Mail',
+	'Send_Test_Mail' => 'Send Test E-Mail',
+	'EMail_Errors' => 'E-Mail Errors',
+	'Send_Mass_Mails' => 'Send Mass E-Mails',
 
 	// Custom Profile Fields
 	'Create_New_Field' => 'Create New Field',
@@ -42,9 +38,30 @@ $language = [
 	'Back' => 'Back',
 	'Create' => 'Create',
 	'Delete' => 'Delete',
+	'Edit' => 'Edit',
 	'Switch_Yes' => 'Yes',
 	'Switch_No' => 'No',
+	'No_Cancel' => 'No, cancel!',
+	'Yes_Delete_It' => 'Yes, delete it!',
+	'Confirm_Cancel' => 'Are you sure you want to go back? Change will be lost.',
 
 	//Module
 	'noirsettings' => 'Noir Settings',
+
+	//Reaction
+	'New_Reaction' => 'New Reaction',
+
+	//Webbhooks
+	'Create_Webhook' => 'Create Webhook',
+	'Save_Webhook' => 'Save Webhook',
+	'Editing_Webhook' => 'Editing Webhook',
+
+	//Groups
+	'New_Group' => 'New Group',
+	'General_Settings' => 'General Settings',
+	'Style_Settings' => 'Style Settings',
+	'Misc_Settings' => 'Misc Settings',
+
+	//Login Page
+	'Login' => 'Login',
 ];
